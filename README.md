@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @penguinbuilds
-- 👀 I’m interested in Deep Learning and Backend Development
-- 🌱 I’m currently learning Tensorflow and Node.js
-- 💞️ I’m looking to collaborate on anything related to Deep Learning and generative AI.
+- 👀 I’m interested in Deep Neural Networks, Blockchain, Backend Development, and Linux.
+- 🌱 I’m currently learning Tensorflow, Solidity and Node.js.
+- 💞️ I’m looking to collaborate on anything related to Deep Learning, Generative AI, Blockchain, and Linux.
 - 📫 LinkedIn: www.linkedin.com/in/shaaswat-k-jha
 
 <!---

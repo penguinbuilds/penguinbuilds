@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @penguinbuilds
 - 👀 I’m interested in Machine Learning, Python Development, and Linux.
-- 🌱 I’m currently learning PyTorch, and Flask.
+- 🌱 I’m currently learning PyTorch, and FastAPI.
 - 💞️ I’m looking to collaborate on anything related to Deep Learning, Generative AI, Python Development, and Linux.
 - 📫 LinkedIn: www.linkedin.com/in/shaaswat-k-jha
 
